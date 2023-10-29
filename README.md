@@ -1,5 +1,5 @@
 # mukeka-news
-##Projeto de um site de notícias
+## Projeto de um site de notícias
 
 Atividade da matéria de programação web
 
